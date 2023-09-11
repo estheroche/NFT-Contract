@@ -11,7 +11,7 @@ const ownerAddr = '0xe9999a29B116cB45444621EcD1CE52CA013243E4'
     "INFT",
     "0xe2a1FcD65Ab92a203280Ed326DD6395499CbB7c8"
   );
-  await Kitty.mint(ownerAddr,3, "ipfs://bafkreid43slp3gzbcuynqdarlren77efarp24edwfuwhk4dewy5ig6dbhi" );
+  await Kitty.mint(ownerAddr,5, "ipfs://bafkreifjwjo2x55ea26dpwjr34vgnxilkxw53ulz6wi5mm2vkdxvllzuqq" );
  
 }
 
